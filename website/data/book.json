@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "An obsessive planner trapped in a time loop keeps dying at the same Prague hostel night after night, each attempt to escape the loop ending in a new and creative death until she finally breaks - and discovers that dying was always the only way out.",
     "long": ""
   },
   "death_type": "Time Loop",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Same night. Different death. Every time."
 }
